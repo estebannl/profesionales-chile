@@ -15,9 +15,9 @@ header_ <- dashboardHeader(
 # Sidebar -----------------------------------------------------------------
 
 sidebar_ = dashboardSidebar(
-  minified = F,
-  collapsed = F,
-  disable = F,
+  # minified = F,
+  # collapsed = F,
+  # disable = F,
   
   br(),
   

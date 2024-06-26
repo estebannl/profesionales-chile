@@ -1,0 +1,12 @@
+name: profesionales-chile
+title: profesionales-chile
+username: estebannl
+account: estebannl
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 12239573
+bundleId: 8792367
+url: https://estebannl.shinyapps.io/profesionales-chile/
+version: 1
+asMultiple: FALSE
+asStatic: FALSE
