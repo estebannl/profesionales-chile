@@ -3,9 +3,9 @@
 # Example R code to install packages if not already installed
 #
 
-my_packages = c("shiny", "shinydashboard",
+my_packages = c("shiny",
                 "shinydashboardPlus",
-                "tidyverse",
+                "dplyr",
                 "labelled",
                 "highcharter")
 

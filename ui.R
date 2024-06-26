@@ -1,7 +1,6 @@
 library(shiny)
 library(shinydashboard)
-library(shinydashboardPlus)
-library(tidyverse)
+library(dplyr)
 library(labelled)
 library(highcharter)
 
